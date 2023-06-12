@@ -54,7 +54,7 @@ Here are a few technologies and languages that I have worked with
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<img align="left" src="https://streak-stats.demolab.com/?user=davidolaoluwa240"/>
+<img align="left" src="https://streak-stats.demolab.com/?user=davidolaoluwa240&theme=gotham"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidolaoluwa240&layout=compact&theme=gotham" /></br/>
 
 ## Connect with me
