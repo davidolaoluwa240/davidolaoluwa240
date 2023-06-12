@@ -29,8 +29,8 @@
 ## Latest Projects
 Here are some of the projects I have been working on recently  
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidolaoluwa240&repo=in-browser-markdown-editor&theme=gotham&show_owner=true&hide_border=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidolaoluwa240&repo=Ip-Address-Tracker&theme=gotham&show_owner=true&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidolaoluwa240&repo=in-browser-markdown-editor&theme=gotham&hide_border=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidolaoluwa240&repo=Ip-Address-Tracker&theme=gotham&hide_border=true)
 
 ## Technologies
 Here are a few technologies and languages that I have worked with 
@@ -54,7 +54,7 @@ Here are a few technologies and languages that I have worked with
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=davidolaoluwa240"/>
+<img align="left" src="https://streak-stats.demolab.com/?user=davidolaoluwa240"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidolaoluwa240&layout=compact&theme=gotham" /></br/>
 
 ## Connect with me
