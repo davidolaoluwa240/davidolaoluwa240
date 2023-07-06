@@ -30,7 +30,6 @@
 Here are some of the projects I have been working on recently  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidolaoluwa240&repo=in-browser-markdown-editor&theme=gotham&hide_border=true)](https://github.com/davidolaoluwa240/in-browser-markdown-editor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidolaoluwa240&repo=bukable&theme=gotham&hide_border=true)](https://github.com/davidolaoluwa240/bukable)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidolaoluwa240&repo=Ip-Address-Tracker&theme=gotham&hide_border=true)](https://github.com/davidolaoluwa240/Ip-Address-Tracker)
 
 ## Technologies
